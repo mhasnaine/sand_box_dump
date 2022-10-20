@@ -10,7 +10,7 @@
     "id_token_signed_response_alg": "RS256",
     "logo_uri": "https://login.inrupt.com/inrupt.png",
     "post_logout_redirect_uris": ["https://localhost:9443/registration"],
-    "redirect_uris": ["https://localhost:9443/registration"],
+    "redirect_uris": ["https://localhost:9443/callback"],
     "response_types": ["code"],
     "token_endpoint_auth_method": "client_secret_basic"
 }
