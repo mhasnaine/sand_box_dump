@@ -1,7 +1,7 @@
 {
     "@context": "https://www.w3.org/ns/solid/oidc-context.jsonld",
     "application_type": "web",
-    "client_id": "https://localhost:9443/app/id",
+    "client_id": "https://github.com/mhasnaine/sand_box_dump/blob/main/app_id.jsonld",
     "client_name": "Inrupt App Registration locally!!!",
     "client_secret_expires_at": 0,
     "client_uri": "https://localhost:9443/registration",
